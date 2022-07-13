@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AbhishekKeepWebApp/static/css/main.119fae05.css",
+    "main.js": "/AbhishekKeepWebApp/static/js/main.253fdf73.js",
+    "static/media/logo.jpg": "/AbhishekKeepWebApp/static/media/logo.b508d62444de266e5be0.jpg",
+    "index.html": "/AbhishekKeepWebApp/index.html",
+    "main.119fae05.css.map": "/AbhishekKeepWebApp/static/css/main.119fae05.css.map",
+    "main.253fdf73.js.map": "/AbhishekKeepWebApp/static/js/main.253fdf73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.119fae05.css",
+    "static/js/main.253fdf73.js"
+  ]
+}
